@@ -1,3 +1,6 @@
+<img width="922" alt="Screenshot 2024-03-04 at 10 45 34 PM" src="https://github.com/jojotru/jojotru/assets/109646119/1baa14a7-4d2b-4b6b-aff5-74054a738339">
+
+
 # Hello! I'm Jojo! 👋
 
 👩🏻‍💻 I am a developer on a journey to advance my skills!<br>
