@@ -6,7 +6,7 @@
 👩🏻‍💻 I am a developer on a journey to advance my skills!<br>
 🪴 I am experienced in the tech field and am a self-taught developer. I enjoy challenges and crave the excitement of finding a solution to a problem!<br>
 🎨 Being creative and making things is my hobby. This can range from woodworking and building furniture to building websites!<br>
-👻 Check out the game I created with JavaScript!<br>
+👻 Check out the [game](https://jojotru.github.io/GhostGame/) I created with JavaScript!<br>
 🤓 Wanna see more? Check out my portfolio!!<br>
 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/jolena-truong/).<br>
 <br>
